@@ -12,4 +12,5 @@ See the dataset in CW_Folder_PG folder. It consists of following files:
        Expression label of each image for training set. See EMOTION_LABEL section below for more information.
     - Testing set (labels/list_label_test.txt)
        Expression label of each image for testing set. See EMOTION_LABEL section below for more information.
+2. Models
 
