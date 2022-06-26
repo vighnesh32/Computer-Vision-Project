@@ -14,7 +14,7 @@ See the dataset in CW_Folder_PG folder. It consists of following files:
     - Testing set (labels/list_label_test.txt)
        Expression label of each image for testing set.
        
- 2. Machine leanrning algorithms trained with their hyperparameters are MLP_HOG, MLP_SWIFT, SVM_HOG, SVM_SIFT and CNN in files name mlp_hog.ipynb, mlp_swift.ipynb, svm_hog.ipynb, svm_sift.ipynb and CNN.ipynb respectively
+ 2. Machine leanrning algorithms trained with their hyperparameters are MLP_HOG, MLP_SWIFT, SVM_HOG, SVM_SIFT and CNN in files name mlp_hog.ipynb, mlp_swift.ipynb, svm_hog.ipynb, svm_sift.ipynb and CNN.ipynb respectively.
  3. test_functions.ipynb - Test file
  4. office.mp4 - Video file
  5. report.pdf - Project report
