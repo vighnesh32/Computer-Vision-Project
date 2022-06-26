@@ -20,5 +20,5 @@ See the dataset in CW_Folder_PG folder. It consists of following files:
  5. report.pdf - Project report
 
 Sequence of running the codes:
-1. Start by opening and running each section individually of the file mlp_hog.ipynb, mlp_swift.ipynb, svm_hog.ipynb, svm_sift.ipynb and CNN.ipynb.
+1. Start by opening and running each section individually of the files mlp_hog.ipynb, mlp_swift.ipynb, svm_hog.ipynb, svm_sift.ipynb and CNN.ipynb.
 2. Now open and run test_functions.ipynb.
