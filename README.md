@@ -13,7 +13,7 @@ See the dataset in CW_Folder_PG folder. It consists of following files:
     - Testing set (labels/list_label_test.txt)
        Expression label of each image for testing set.
        
- 2. Machine leanrning algorithms trained with their hyperparameters are MLP_HOG, MLP_SWIFT, SVM_HOG, SVM_SIFT AND CNN
+ 2. Machine leanrning algorithms trained with their hyperparameters are MLP_HOG, MLP_SWIFT, SVM_HOG, SVM_SIFT and CNN
  
  
 
