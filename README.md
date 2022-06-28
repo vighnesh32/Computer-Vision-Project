@@ -1,5 +1,5 @@
 # Computer-Vision-Project
-File Name and Decription :
+#### File Name and Decription :
 1. CW_Folder_PG.zip :
 See the dataset in CW_Folder_PG folder. It consists of following files:
 - Images
@@ -19,6 +19,6 @@ See the dataset in CW_Folder_PG folder. It consists of following files:
  4. office.mp4 - Video file
  5. report.pdf - Project report
 
-Sequence of running the codes :
+#### Sequence of running the codes :
 1. Start by opening and running each section individually of the files mlp_hog.ipynb, mlp_swift.ipynb, svm_hog.ipynb, svm_sift.ipynb and CNN.ipynb.
 2. Now open and run test_functions.ipynb.
